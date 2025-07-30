@@ -1,6 +1,8 @@
 # On-Prem to Azure Cloud Migration for Airline Data Platform using ADF, PySpark & Delta Lake
 
-Successfully delivered an end-to-end **on-premises to Azure cloud data migration** project for an **airline analytics platform** using **Azure Data Factory (ADF)**, **PySpark**, and **Delta Lake**, following the **Medallion Architecture**.
+Successfully completed an end-to-end **on-premises to Azure cloud data migration** project for an **airline analytics platform** using **Azure Data Factory (ADF)**, **PySpark**, and **Delta Lake**, following the **Medallion Architecture**.
+
+<img width="1280" height="640" alt="Architecture" src="https://github.com/user-attachments/assets/d851de1c-909b-4288-9c6d-8f98eab0eaf8" />
 
 ## 🔍 Key Highlights:
 
